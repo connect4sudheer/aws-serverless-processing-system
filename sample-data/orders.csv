@@ -1,0 +1,6 @@
+order_id,customer_id,product,quantity,amount,status
+O001,C001,Laptop,1,75000,COMPLETED
+O002,C002,Mouse,2,1500,COMPLETED
+O003,C003,Keyboard,1,2500,PENDING
+O004,C004,Monitor,2,30000,COMPLETED
+O005,C001,Headphones,1,5000,COMPLETED

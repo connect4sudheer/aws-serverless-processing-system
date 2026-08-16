@@ -1,0 +1,13 @@
+{
+  "source_file": "uploads/customers/customers.csv",
+  "total_records": 5,
+  "valid_records": 4,
+  "invalid_records": 1,
+  "status": "COMPLETED",
+  "errors": [
+    {
+      "customer_id": "C005",
+      "reason": "Invalid email"
+    }
+  ]
+}

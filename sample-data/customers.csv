@@ -1,0 +1,6 @@
+customer_id,name,email,phone,status
+C001,Jyoti,jyoti@example.com,9876543210,ACTIVE
+C002,Rahul,rahul@example.com,9876543211,ACTIVE
+C003,Amit,amit@example.com,9876543212,INACTIVE
+C004,Neha,neha@example.com,987654213,ACTIVE
+C005,Priya,invalid-email,9876543214,ACTIVE

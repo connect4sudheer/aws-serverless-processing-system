@@ -1,0 +1,17 @@
+{
+  "source_file": "uploads/orders/orders.csv",
+  "total_records": 6,
+  "valid_records": 4,
+  "invalid_records": 2,
+  "status": "COMPLETED",
+  "errors": [
+    {
+      "order_id": "O005",
+      "reason": "Customer C999 does not exist"
+    },
+    {
+      "order_id": "O006",
+      "reason": "Quantity must be greater than 0"
+    }
+  ]
+}
